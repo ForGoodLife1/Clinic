@@ -1,0 +1,11 @@
+C:\Users\fares\source\repos\Clinic\Clinic.Model\bin\Debug\net8.0\Clinic.Model.deps.json
+C:\Users\fares\source\repos\Clinic\Clinic.Model\bin\Debug\net8.0\Clinic.Model.dll
+C:\Users\fares\source\repos\Clinic\Clinic.Model\bin\Debug\net8.0\Clinic.Model.pdb
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\Clinic.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\Clinic.Model.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\Clinic.Model.AssemblyInfo.cs
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\Clinic.Model.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\Clinic.Model.dll
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\refint\Clinic.Model.dll
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\Clinic.Model.pdb
+C:\Users\fares\source\repos\Clinic\Clinic.Model\obj\Debug\net8.0\ref\Clinic.Model.dll

@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\Clinic\Clinic.EF\bin\Debug\net8.0\Clinic.EF.deps.json
+C:\Users\fares\source\repos\Clinic\Clinic.EF\bin\Debug\net8.0\Clinic.EF.runtimeconfig.json
+C:\Users\fares\source\repos\Clinic\Clinic.EF\bin\Debug\net8.0\Clinic.EF.dll
+C:\Users\fares\source\repos\Clinic\Clinic.EF\bin\Debug\net8.0\Clinic.EF.pdb
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.AssemblyInfo.cs
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.dll
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\refint\Clinic.EF.dll
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.pdb
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.genruntimeconfig.cache
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\ref\Clinic.EF.dll
+C:\Users\fares\source\repos\Clinic\Clinic.EF\bin\Debug\net8.0\Clinic.Model.dll
+C:\Users\fares\source\repos\Clinic\Clinic.EF\bin\Debug\net8.0\Clinic.Model.pdb
+C:\Users\fares\source\repos\Clinic\Clinic.EF\obj\Debug\net8.0\Clinic.EF.csproj.Up2Date
